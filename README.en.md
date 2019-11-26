@@ -1,7 +1,5 @@
 # json
-
-[en](https://github.com/dzp181/json/blob/master/README.en.md)
-
+[中文](https://github.com/dzp181/json/blob/master/README.md)
 
 *   YYModel: json 工具 性能较好（推荐且作者还有好几个优秀框架）。[官网](https://github.com/ibireme/YYModel)
 *   JSONKit：Objective-C JSON 工具。[官网](https://github.com/johnezang/JSONKit)
@@ -19,3 +17,4 @@
 *   Gloss：一个 Swift 写的 JSON 解析库。★[官网](https://github.com/hkellaway/Gloss)
 *   Cereal：Swift 对象序列化 ★[官网](https://github.com/Weebly/Cereal)
 *   SwiftyJSONAccelerator：使用 SwiftyJSON 或者 ObjectMapper 根据 JSON 生成 Swift 模型。支持 NSCoding 并且提供了使用 JSON 来表示模型的方法。★[官网](https://github.com/insanoid/SwiftyJSONAccelerator)
+
